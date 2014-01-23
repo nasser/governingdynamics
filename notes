@@ -1,0 +1,58 @@
+These are my personal running notes for the class. They are included here because they need to be stored somewhere, and there is no sense in keeping this to myself. Do not exepect them to be coherent, reflect reality, or useful.
+- nasser
+
+1. What is Code?
+  1. http://rosettacode.org/
+  2. Define Code
+    1. Description of behavior to be acted on by a machine
+      1. Description -> Language
+      2. Behavior -> Reaction to stimuli, interactions with outside world, etc
+      3. Machine -> non-human
+        1. Why is this important? -> Ambiguity
+        2. No longer a conversation between equals
+  2. Place code on the spectrum of instructive art
+    1. Musical Composition
+    2. Screenplay
+    3. Fluxus
+  3. How is code different?
+    1. Does not require human intervention/interpretation
+    2. Can run forever
+    3. Can model the infinite
+    4. Think unthinkable thoughts
+  4. How does text become behavior
+    1. A program reads source code, character by character
+    2. Builds a representation of it
+    3. Based on that representation, generates code in another language (compiler)
+    4. Or uses that representation to execute behavior directly (interpreter)
+  5. What *isn't* a language?
+    1. Processing IDE
+    2. openFrameworks/Processing Libraries
+  6. Markups
+    1. HTML
+    2. Markdown
+  6. Family Tree/Brief History
+2. Syntax
+  1. Parsing (source -> ir)
+    1. Simplest parser
+    2. Regexps
+    3. PEGs
+  2. Syntax Families
+    3. ALGOL foo.bar(baz)
+    2. SmallTalk [foo bar:12 whenBazIsPresent:90]
+    3. Forth 
+    1. LISP (foo (bar baz))
+      1. Homoiconicity
+      2. Macros
+3. Semantics
+  1. Paradigms
+    1. Stack
+      1. PostScript (in preview)
+      2. Factor?
+    2. Object Oriented
+      1. Java
+      2. C#
+    3. Procedural/Imperative
+      1. C
+    4. Functional
+      1. Haskell
+    5. Declarative/Logical
