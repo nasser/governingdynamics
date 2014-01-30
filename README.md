@@ -37,7 +37,7 @@ This course will guide students through the art and science of designing a progr
 6. [Self](http://selflanguage.org/)
 7. [Io](http://iolanguage.org/)
 8. [CoffeeScript](http://coffeescript.org/)
-9. Piet
+9. [Piet](http://www.dangermouse.net/esoteric/piet.html)
 10. [Prolog](http://www.gprolog.org/)
 11. [Brainfuck](https://github.com/FabianM/brainfuck)
 12. [Max/MSP](http://cycling74.com/downloads/)
